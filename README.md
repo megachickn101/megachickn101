@@ -8,6 +8,7 @@
 
 
   GNU nano 5.8                          README.md                           
+
 - I do some programming
 - Skilled in Python
 - Decent at HTML and CSS
@@ -16,7 +17,6 @@
 - Reach me at megachickn101@gmail.com
 - Twitter: megachickn101
 - Website: megachickn101.github.io
-
 
 
 
