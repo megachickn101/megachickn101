@@ -1,4 +1,5 @@
-```[megachickn101@megachickn101 ~]$ sudo mkdir megachickn101
+```
+[megachickn101@megachickn101 ~]$ sudo mkdir megachickn101
 
 [megachickn101@megachickn101 ~]$ cd megachickn101
 
