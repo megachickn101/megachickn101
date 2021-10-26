@@ -14,7 +14,7 @@
 - Skilled in Python
 - Decent at HTML and CSS
 - Discord.py was a good library RIP
-- Proficient in sqlite3, tkinter, random, os, discord.py
+- Proficient in sqlite3, tkinter, random, os, discord.py/Novus
 - Reach me at megachickn101@gmail.com
 - Twitter: megachickn101
 - Website: megachickn101.github.io
