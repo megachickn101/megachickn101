@@ -35,5 +35,7 @@
 [megachickn101@megachickn101 megachickn101]$ exit
 ```
 <center>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=megachickn101&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=megachickn101&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  
 </center>
