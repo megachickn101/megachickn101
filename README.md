@@ -33,3 +33,6 @@
 ^X Exit      ^R Read File ^\ Replace   ^U Paste     ^J Justify   ^/ Go To Line
 
 [megachickn101@megachickn101 megachickn101]$ exit
+```
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=megachickn101)](https://github.com/anuraghazra/github-readme-stats)
