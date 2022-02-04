@@ -1,11 +1,11 @@
 ```
-[megachickn101@megachickn101 ~]$ sudo mkdir megachickn101
+[megachickn101@megachickn101s_github ~]$ sudo mkdir megachickn101
 
-[megachickn101@megachickn101 ~]$ cd megachickn101
+[megachickn101@megachickn101s_github ~]$ cd megachickn101
 
-[megachickn101@megachickn101 megachickn101]$ sudo touch README.md
+[megachickn101@megachickn101s_github megachickn101]$ sudo touch README.md
 
-[megachickn101@megachickn101 megachickn101]$ sudo nano README.md
+[megachickn101@megachickn101s_github megachickn101]$ sudo nano README.md
 
 
   GNU nano 5.8                          README.md                           
@@ -32,7 +32,7 @@
 ^G Help      ^O Write Out ^W Where Is  ^K Cut       ^T Execute   ^C Location
 ^X Exit      ^R Read File ^\ Replace   ^U Paste     ^J Justify   ^/ Go To Line
 
-[megachickn101@megachickn101 megachickn101]$ exit
+[megachickn101@megachickn101s_github megachickn101]$ exit
 ```
 <center>
   
