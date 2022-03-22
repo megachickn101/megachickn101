@@ -13,12 +13,12 @@
 - I do some programming
 - Skilled in Python
 - Decent at HTML and CSS
-- Discord.py was a good library RIP
-- Proficient in sqlite3, tkinter, random, os, discord.py/Novus
+- Only competent when developing discord bots :|
+- Proficient in sqlite3, tkinter, random, os, discord.py
 - Reach me at megachickn101@gmail.com
 - Twitter: megachickn101
 - Website: megachickn101.github.io
-
+- Fiverr: https://www.fiverr.com/adudewhocancode?up_rollout=true
 
 
 
