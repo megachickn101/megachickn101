@@ -9,8 +9,8 @@
 
 
   GNU nano 5.8                          README.md                           
-
-- I do some programming
+  
+  
 - Write in Java, Python, C++
 - Only competent when developing discord bots :|
 - Reach me at megachickn101@gmail.com
