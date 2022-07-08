@@ -11,7 +11,7 @@
   GNU nano 5.8                          README.md                           
   
   
-- Write in Java, Python, C++
+- Java, Python, C++
 - Only competent when developing discord bots :|
 - Reach me at megachickn101@gmail.com
 - Twitter: megachickn101
