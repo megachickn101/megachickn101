@@ -16,7 +16,7 @@
 - Reach me at megachickn101@gmail.com
 - Twitter: megachickn101
 - Website: megachickn101.github.io
-- Fiverr: https://www.fiverr.com/adudewhocancode?up_rollout=true
+
 
 
 
